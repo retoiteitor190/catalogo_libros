@@ -1,0 +1,66 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\retoi\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add i18n-js
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Users\retoi\AppData\Local\Microsoft\WindowsApps;C:\Users\retoi\AppData\Roaming\npm;C:\Users\retoi\AppData\Local\GitHubDesktop\bin;C:\Users\retoi\.dotnet\tools;C:\Users\retoi\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\retoi\AppData\Local\Yarn\Cache\v6\npm-argparse-1.0.10-bcd6791ea5ae09725e17e5ad988134cd40b3d911-integrity\node_modules\argparse\.yarn-metadata.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Users\retoi\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\retoi\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\retoi\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "catalogo_libros",
+    "version": "1.0.0",
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "eject": "expo eject"
+    },
+    "dependencies": {
+      "@aws-amplify/ui-react": "^2.15.3",
+      "@react-native-async-storage/async-storage": "^1.17.3",
+      "@react-navigation/bottom-tabs": "^6.3.1",
+      "@react-navigation/native": "^6.0.10",
+      "@react-navigation/native-stack": "^6.6.1",
+      "aws-amplify": "^4.3.20",
+      "aws-amplify-react-native": "^6.0.4",
+      "expo": "~44.0.0",
+      "expo-status-bar": "~1.2.0",
+      "global-provider": "^1.0.3",
+      "react": "17.0.1",
+      "react-dom": "17.0.1",
+      "react-native": "0.64.3",
+      "react-native-safe-area-context": "3.3.2",
+      "react-native-screens": "~3.10.1",
+      "react-native-web": "0.17.1",
+      "expo-localization": "~12.0.0",
+      "expo-image-picker": "~12.0.1"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.12.9"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
