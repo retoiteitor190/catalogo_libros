@@ -7,7 +7,7 @@ import ButtonComponent from "../../components/Button";
 import i18n from"../../../localization/i18n";
 
 
-export default function AddLibroScreen(){
+export default function libroScreen(){
   const [todos, setTodos] = useState();
 
   const [todo, setTodo] = useState({titulo:"", autor:"", isbm:"",name:"",description:"",status:""})
