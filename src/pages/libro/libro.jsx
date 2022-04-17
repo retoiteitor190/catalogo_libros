@@ -37,7 +37,7 @@ useEffect(() =>{
 
 return (
       <View style={styles.container}>
-        <Text>{i18n.t("Agregar libro")}</Text>
+        <Text>{i18n.t("Añadir libro")}</Text>
 
         <Text> {i18n.t("Titulo")}</Text>
         <TextInput

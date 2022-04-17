@@ -99,7 +99,7 @@ export default function inicioScreen(){
         }} ></Image>}
         </Button>
         <Text style={{color:'red'}}
-        onPress={()=>Linking.openURL("https://github.com/KevinMacias181667/181667dmi")}>
+        onPress={()=>Linking.openURL("https://github.com/retoiteitor190/catalogo_libros.git")}>
         GitHub
         </Text>
       </View>
