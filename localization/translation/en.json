@@ -4,7 +4,7 @@
     "Autor":"author",
     "ISBN":"ISBN",
     "Nombre":"Name",
-    "Descripción":"description",
+    "Descripcion":"description",
     "Estatus":"Status"
 
 }
