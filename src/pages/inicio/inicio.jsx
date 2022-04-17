@@ -8,7 +8,7 @@ import * as ImagePicker from 'expo-image-picker'
 
 import {Amplify} from "aws-amplify"
 
-export default function HomeScreen(){
+export default function inicioScreen(){
 
   const [image,setImage]= useState(null);
 
