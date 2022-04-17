@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-catalibro-dev-115039-authRole",
+      "UnauthRoleArn": "arn:aws:iam::999699860709:role/amplify-catalibro-dev-115039-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::999699860709:role/amplify-catalibro-dev-115039-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-catalibro-dev-115039-deployment",
+      "UnauthRoleName": "amplify-catalibro-dev-115039-unauthRole",
+      "StackName": "amplify-catalibro-dev-115039",
+      "StackId": "arn:aws:cloudformation:us-east-1:999699860709:stack/amplify-catalibro-dev-115039/856b6250-be6e-11ec-80dc-1281d6e46893",
+      "AmplifyAppId": "d2q4fnpihp1ntc"
+    },
+    "categories": {
+      "auth": {
+        "catalibro69d45d71": {}
+      }
+    }
+  }
+}
