@@ -8,7 +8,7 @@ import { withAuthenticator } from "aws-amplify-react-native";
 
 import MainNavigator from "./src/components/Navigator";
 
-import { GlobalProvider } from "./src/context/global/global.context";
+import { GlobalProvider } from "./src/Context/global/Global.context";
 
 Amplify.configure(awsconfig);
 
